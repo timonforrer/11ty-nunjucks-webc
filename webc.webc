@@ -8,5 +8,6 @@
 </head>
 <body>
   <hello-world :data="data"></hello-world>
+  <a href="/">return to home</a>
 </body>
 </html>
