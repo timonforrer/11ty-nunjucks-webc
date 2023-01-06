@@ -1,0 +1,5 @@
+<script webc:type="js" webc:is="template">
+  `<p>
+    ${data ? data.message : undefined}
+  </p>`
+</script>
